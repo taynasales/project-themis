@@ -1,0 +1,1201 @@
+[
+  {
+    "id": "agua-sem-gas",
+    "name": "Água sem Gás",
+    "emoji": "💧",
+    "category": "bebidas",
+    "subcategory": "aguas"
+  },
+  {
+    "id": "agua-com-gas",
+    "name": "Água com Gás",
+    "emoji": "🫧",
+    "category": "bebidas",
+    "subcategory": "aguas"
+  },
+  {
+    "id": "agua-de-coco",
+    "name": "Água de Coco",
+    "emoji": "🥥",
+    "category": "bebidas",
+    "subcategory": "aguas"
+  },
+  {
+    "id": "agua-tonica",
+    "name": "Água Tônica",
+    "emoji": "🫧",
+    "category": "bebidas",
+    "subcategory": "aguas"
+  },
+
+  {
+    "id": "refrigerante-de-cola",
+    "name": "Refrigerante de Cola",
+    "emoji": "🥤",
+    "category": "bebidas",
+    "subcategory": "refrigerantes"
+  },
+  {
+    "id": "guarana",
+    "name": "Guaraná",
+    "emoji": "🥤",
+    "category": "bebidas",
+    "subcategory": "refrigerantes"
+  },
+  {
+    "id": "refrigerante-de-limao",
+    "name": "Refrigerante de Limão",
+    "emoji": "🥤",
+    "category": "bebidas",
+    "subcategory": "refrigerantes"
+  },
+  {
+    "id": "refrigerante-de-laranja",
+    "name": "Refrigerante de Laranja",
+    "emoji": "🥤",
+    "category": "bebidas",
+    "subcategory": "refrigerantes"
+  },
+
+  {
+    "id": "suco-de-laranja",
+    "name": "Suco de Laranja",
+    "emoji": "🍊",
+    "category": "bebidas",
+    "subcategory": "sucos"
+  },
+  {
+    "id": "suco-de-uva",
+    "name": "Suco de Uva",
+    "emoji": "🍇",
+    "category": "bebidas",
+    "subcategory": "sucos"
+  },
+  {
+    "id": "suco-de-abacaxi",
+    "name": "Suco de Abacaxi",
+    "emoji": "🍍",
+    "category": "bebidas",
+    "subcategory": "sucos"
+  },
+  {
+    "id": "suco-de-manga",
+    "name": "Suco de Manga",
+    "emoji": "🥭",
+    "category": "bebidas",
+    "subcategory": "sucos"
+  },
+  {
+    "id": "suco-de-morango",
+    "name": "Suco de Morango",
+    "emoji": "🍓",
+    "category": "bebidas",
+    "subcategory": "sucos"
+  },
+  {
+    "id": "suco-de-maracuja",
+    "name": "Suco de Maracujá",
+    "emoji": "🧃",
+    "category": "bebidas",
+    "subcategory": "sucos"
+  },
+  {
+    "id": "limonada",
+    "name": "Limonada",
+    "emoji": "🍋",
+    "category": "bebidas",
+    "subcategory": "sucos"
+  },
+
+  {
+    "id": "cafe-expresso",
+    "name": "Café Expresso",
+    "emoji": "☕",
+    "category": "bebidas",
+    "subcategory": "cafes-e-chas"
+  },
+  {
+    "id": "cafe-com-leite",
+    "name": "Café com Leite",
+    "emoji": "☕",
+    "category": "bebidas",
+    "subcategory": "cafes-e-chas"
+  },
+  {
+    "id": "cappuccino",
+    "name": "Cappuccino",
+    "emoji": "☕",
+    "category": "bebidas",
+    "subcategory": "cafes-e-chas"
+  },
+  {
+    "id": "cha",
+    "name": "Chá",
+    "emoji": "🍵",
+    "category": "bebidas",
+    "subcategory": "cafes-e-chas"
+  },
+  {
+    "id": "cha-gelado",
+    "name": "Chá Gelado",
+    "emoji": "🧊",
+    "category": "bebidas",
+    "subcategory": "cafes-e-chas"
+  },
+  {
+    "id": "energetico",
+    "name": "Energético",
+    "emoji": "⚡",
+    "category": "bebidas",
+    "subcategory": "energeticos"
+  },
+  {
+    "id": "chopp",
+    "name": "Chopp",
+    "emoji": "🍺",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "chopp-escuro",
+    "name": "Chopp Escuro",
+    "emoji": "🍺",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "torre-de-chopp",
+    "name": "Torre de Chopp",
+    "emoji": "🍻",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "cerveja-garrafa-600ml",
+    "name": "Cerveja Garrafa 600 ml",
+    "emoji": "🍺",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "cerveja-long-neck",
+    "name": "Cerveja Long Neck",
+    "emoji": "🍺",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "cerveja-lata",
+    "name": "Cerveja Lata",
+    "emoji": "🍺",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "balde-de-cerveja",
+    "name": "Balde de Cerveja",
+    "emoji": "🪣",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "cerveja-artesanal",
+    "name": "Cerveja Artesanal",
+    "emoji": "🍺",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "cerveja-ipa",
+    "name": "Cerveja IPA",
+    "emoji": "🍺",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "cerveja-de-trigo",
+    "name": "Cerveja de Trigo",
+    "emoji": "🍺",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "cerveja-sem-alcool",
+    "name": "Cerveja sem Álcool",
+    "emoji": "🍺",
+    "category": "bebidas",
+    "subcategory": "cervejas"
+  },
+  {
+    "id": "caipirinha-de-limao",
+    "name": "Caipirinha de Limão",
+    "emoji": "🍋",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "caipirinha-de-morango",
+    "name": "Caipirinha de Morango",
+    "emoji": "🍓",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "caipirinha-de-maracuja",
+    "name": "Caipirinha de Maracujá",
+    "emoji": "🍹",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "caipiroska",
+    "name": "Caipiroska",
+    "emoji": "🍹",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "sakerinha",
+    "name": "Sakerinha",
+    "emoji": "🍹",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "batida-de-coco",
+    "name": "Batida de Coco",
+    "emoji": "🥥",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+
+  {
+    "id": "gin-tonica",
+    "name": "Gin Tônica",
+    "emoji": "🍸",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "spritz",
+    "name": "Spritz",
+    "emoji": "🍊",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "negroni",
+    "name": "Negroni",
+    "emoji": "🥃",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "moscow-mule",
+    "name": "Moscow Mule",
+    "emoji": "🫚",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "mojito",
+    "name": "Mojito",
+    "emoji": "🌿",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "cuba-libre",
+    "name": "Cuba Libre",
+    "emoji": "🥃",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "margarita",
+    "name": "Margarita",
+    "emoji": "🍸",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "pina-colada",
+    "name": "Piña Colada",
+    "emoji": "🍍",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "daiquiri",
+    "name": "Daiquiri",
+    "emoji": "🍸",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "sex-on-the-beach",
+    "name": "Sex on the Beach",
+    "emoji": "🍹",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "bloody-mary",
+    "name": "Bloody Mary",
+    "emoji": "🍅",
+    "category": "bebidas",
+    "subcategory": "drinks"
+  },
+  {
+    "id": "vinho-tinto-taca",
+    "name": "Vinho Tinto Taça",
+    "emoji": "🍷",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+  {
+    "id": "vinho-tinto-garrafa",
+    "name": "Vinho Tinto Garrafa",
+    "emoji": "🍷",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+  {
+    "id": "vinho-branco-taca",
+    "name": "Vinho Branco Taça",
+    "emoji": "🥂",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+  {
+    "id": "vinho-branco-garrafa",
+    "name": "Vinho Branco Garrafa",
+    "emoji": "🥂",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+  {
+    "id": "vinho-rose-taca",
+    "name": "Vinho Rosé Taça",
+    "emoji": "🌸",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+  {
+    "id": "vinho-rose-garrafa",
+    "name": "Vinho Rosé Garrafa",
+    "emoji": "🌸",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+
+  {
+    "id": "espumante-taca",
+    "name": "Espumante Taça",
+    "emoji": "🥂",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+  {
+    "id": "espumante-garrafa",
+    "name": "Espumante Garrafa",
+    "emoji": "🍾",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+
+  {
+    "id": "sangria-taca",
+    "name": "Sangria Taça",
+    "emoji": "🍷",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+  {
+    "id": "sangria-jarra",
+    "name": "Sangria Jarra",
+    "emoji": "🍷",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+  {
+    "id": "chopp-de-vinho",
+    "name": "Chopp de Vinho",
+    "emoji": "🍷",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+  {
+    "id": "vinho-quente",
+    "name": "Vinho Quente",
+    "emoji": "🔥",
+    "category": "bebidas",
+    "subcategory": "vinhos"
+  },
+  {
+    "id": "cachaca-dose",
+    "name": "Cachaça Dose",
+    "emoji": "🥃",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "cachaca-garrafa",
+    "name": "Cachaça Garrafa",
+    "emoji": "🍶",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+
+  {
+    "id": "whisky-dose",
+    "name": "Whisky Dose",
+    "emoji": "🥃",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "whisky-garrafa",
+    "name": "Whisky Garrafa",
+    "emoji": "🥃",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "vodka-dose",
+    "name": "Vodka Dose",
+    "emoji": "🧊",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "vodka-garrafa",
+    "name": "Vodka Garrafa",
+    "emoji": "🧊",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "gin-dose",
+    "name": "Gin Dose",
+    "emoji": "🫒",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "gin-garrafa",
+    "name": "Gin Garrafa",
+    "emoji": "🫒",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+
+  {
+    "id": "tequila-dose",
+    "name": "Tequila Dose",
+    "emoji": "🌵",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "rum-dose",
+    "name": "Rum Dose",
+    "emoji": "🏴‍☠️",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "conhaque-dose",
+    "name": "Conhaque Dose",
+    "emoji": "🥃",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "licor-dose",
+    "name": "Licor Dose",
+    "emoji": "🍯",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "absinto-dose",
+    "name": "Absinto Dose",
+    "emoji": "💚",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "saque-dose",
+    "name": "Saquê Dose",
+    "emoji": "🍶",
+    "category": "bebidas",
+    "subcategory": "destilados"
+  },
+  {
+    "id": "batata-frita",
+    "name": "Batata Frita",
+    "emoji": "🍟",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "batata-frita-com-cheddar-e-bacon",
+    "name": "Batata Frita com Cheddar e Bacon",
+    "emoji": "🍟",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "mandioca-frita",
+    "name": "Mandioca Frita",
+    "emoji": "🍠",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "polenta-frita",
+    "name": "Polenta Frita",
+    "emoji": "🌽",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "aneis-de-cebola",
+    "name": "Anéis de Cebola",
+    "emoji": "🧅",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+
+  {
+    "id": "frango-a-passarinho",
+    "name": "Frango a Passarinho",
+    "emoji": "🍗",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "isca-de-frango",
+    "name": "Isca de Frango",
+    "emoji": "🍗",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "calabresa-acebolada",
+    "name": "Calabresa Acebolada",
+    "emoji": "🌭",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "torresmo",
+    "name": "Torresmo",
+    "emoji": "🥓",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "carne-de-sol",
+    "name": "Carne de Sol",
+    "emoji": "🥩",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "picanha-na-chapa",
+    "name": "Picanha na Chapa",
+    "emoji": "🥩",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+
+  {
+    "id": "isca-de-peixe",
+    "name": "Isca de Peixe",
+    "emoji": "🐟",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "camarao-empanado",
+    "name": "Camarão Empanado",
+    "emoji": "🍤",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "bolinho-de-bacalhau",
+    "name": "Bolinho de Bacalhau",
+    "emoji": "🐟",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+
+  {
+    "id": "pastel",
+    "name": "Pastel",
+    "emoji": "🥟",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "coxinha",
+    "name": "Coxinha",
+    "emoji": "🍗",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "bolinho-de-queijo",
+    "name": "Bolinho de Queijo",
+    "emoji": "🧀",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "dadinho-de-tapioca",
+    "name": "Dadinho de Tapioca",
+    "emoji": "🧀",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "queijo-coalho",
+    "name": "Queijo Coalho",
+    "emoji": "🧀",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+
+  {
+    "id": "tabua-de-frios",
+    "name": "Tábua de Frios",
+    "emoji": "🧀",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "amendoim",
+    "name": "Amendoim",
+    "emoji": "🥜",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "azeitona",
+    "name": "Azeitona",
+    "emoji": "🫒",
+    "category": "comidas",
+    "subcategory": "porcoes"
+  },
+  {
+    "id": "hamburguer",
+    "name": "Hambúrguer",
+    "emoji": "🍔",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "x-burguer",
+    "name": "X-Burguer",
+    "emoji": "🍔",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "x-salada",
+    "name": "X-Salada",
+    "emoji": "🍔",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "x-bacon",
+    "name": "X-Bacon",
+    "emoji": "🥓",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "x-egg",
+    "name": "X-Egg",
+    "emoji": "🍳",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "x-tudo",
+    "name": "X-Tudo",
+    "emoji": "🍔",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "hamburguer-vegetariano",
+    "name": "Hambúrguer Vegetariano",
+    "emoji": "🌱",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+
+  {
+    "id": "cachorro-quente",
+    "name": "Cachorro-Quente",
+    "emoji": "🌭",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "choripan",
+    "name": "Choripán",
+    "emoji": "🌭",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+
+  {
+    "id": "misto-quente",
+    "name": "Misto-Quente",
+    "emoji": "🥪",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "bauru",
+    "name": "Bauru",
+    "emoji": "🥪",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "beirute",
+    "name": "Beirute",
+    "emoji": "🥙",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "sanduiche-de-pernil",
+    "name": "Sanduíche de Pernil",
+    "emoji": "🥪",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "sanduiche-de-mortadela",
+    "name": "Sanduíche de Mortadela",
+    "emoji": "🥪",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "sanduiche-natural",
+    "name": "Sanduíche Natural",
+    "emoji": "🥬",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "wrap",
+    "name": "Wrap",
+    "emoji": "🌯",
+    "category": "comidas",
+    "subcategory": "lanches"
+  },
+  {
+    "id": "pizza-mussarela",
+    "name": "Pizza Mussarela",
+    "emoji": "🍕",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-calabresa",
+    "name": "Pizza Calabresa",
+    "emoji": "🍕",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-margherita",
+    "name": "Pizza Margherita",
+    "emoji": "🍅",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-portuguesa",
+    "name": "Pizza Portuguesa",
+    "emoji": "🍕",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-frango-com-requeijao",
+    "name": "Pizza Frango com Requeijão",
+    "emoji": "🍕",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-quatro-queijos",
+    "name": "Pizza Quatro Queijos",
+    "emoji": "🧀",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-napolitana",
+    "name": "Pizza Napolitana",
+    "emoji": "🍕",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-pepperoni",
+    "name": "Pizza Pepperoni",
+    "emoji": "🍕",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-atum",
+    "name": "Pizza Atum",
+    "emoji": "🐟",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-lombo",
+    "name": "Pizza Lombo",
+    "emoji": "🍕",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-palmito",
+    "name": "Pizza Palmito",
+    "emoji": "🍕",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-brocolis",
+    "name": "Pizza Brócolis",
+    "emoji": "🥦",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-rucula-com-tomate-seco",
+    "name": "Pizza Rúcula com Tomate Seco",
+    "emoji": "🥬",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+
+  {
+    "id": "pizza-chocolate",
+    "name": "Pizza Chocolate",
+    "emoji": "🍫",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-romeu-e-julieta",
+    "name": "Pizza Romeu e Julieta",
+    "emoji": "🧀",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "pizza-banana-com-canela",
+    "name": "Pizza Banana com Canela",
+    "emoji": "🍌",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+
+  {
+    "id": "pizza-meio-a-meio",
+    "name": "Pizza Meio a Meio",
+    "emoji": "🍕",
+    "category": "comidas",
+    "subcategory": "pizzas"
+  },
+  {
+    "id": "prato-feito",
+    "name": "Prato Feito",
+    "emoji": "🍛",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "prato-executivo",
+    "name": "Prato Executivo",
+    "emoji": "🍽️",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "feijoada",
+    "name": "Feijoada",
+    "emoji": "🫘",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+
+  {
+    "id": "file-a-parmegiana",
+    "name": "Filé à Parmegiana",
+    "emoji": "🥩",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "frango-a-parmegiana",
+    "name": "Frango à Parmegiana",
+    "emoji": "🍗",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "contra-file-com-fritas",
+    "name": "Contra-Filé com Fritas",
+    "emoji": "🥩",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "picanha-com-fritas",
+    "name": "Picanha com Fritas",
+    "emoji": "🥩",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "frango-grelhado",
+    "name": "Frango Grelhado",
+    "emoji": "🍗",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "strogonoff-de-frango",
+    "name": "Strogonoff de Frango",
+    "emoji": "🍛",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "strogonoff-de-carne",
+    "name": "Strogonoff de Carne",
+    "emoji": "🍛",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+
+  {
+    "id": "salmao-grelhado",
+    "name": "Salmão Grelhado",
+    "emoji": "🐟",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "moqueca",
+    "name": "Moqueca",
+    "emoji": "🐟",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+
+  {
+    "id": "macarrao-a-bolonhesa",
+    "name": "Macarrão à Bolonhesa",
+    "emoji": "🍝",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "lasanha",
+    "name": "Lasanha",
+    "emoji": "🍝",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "nhoque",
+    "name": "Nhoque",
+    "emoji": "🍝",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "risoto",
+    "name": "Risoto",
+    "emoji": "🍚",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+
+  {
+    "id": "combinado-de-sushi",
+    "name": "Combinado de Sushi",
+    "emoji": "🍣",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "temaki",
+    "name": "Temaki",
+    "emoji": "🍣",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "yakisoba",
+    "name": "Yakisoba",
+    "emoji": "🍜",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+
+  {
+    "id": "salada",
+    "name": "Salada",
+    "emoji": "🥗",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "omelete",
+    "name": "Omelete",
+    "emoji": "🍳",
+    "category": "comidas",
+    "subcategory": "pratos"
+  },
+  {
+    "id": "pudim",
+    "name": "Pudim",
+    "emoji": "🍮",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "petit-gateau",
+    "name": "Petit Gâteau",
+    "emoji": "🍫",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "brownie",
+    "name": "Brownie",
+    "emoji": "🍫",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "brownie-com-sorvete",
+    "name": "Brownie com Sorvete",
+    "emoji": "🍨",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "brigadeiro",
+    "name": "Brigadeiro",
+    "emoji": "🍫",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "mousse-de-chocolate",
+    "name": "Mousse de Chocolate",
+    "emoji": "🍫",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "mousse-de-maracuja",
+    "name": "Mousse de Maracujá",
+    "emoji": "💛",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+
+  {
+    "id": "torta-de-limao",
+    "name": "Torta de Limão",
+    "emoji": "🍋",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "cheesecake",
+    "name": "Cheesecake",
+    "emoji": "🍰",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "bolo-de-chocolate",
+    "name": "Bolo de Chocolate",
+    "emoji": "🎂",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "romeu-e-julieta",
+    "name": "Romeu e Julieta",
+    "emoji": "🧀",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "churros",
+    "name": "Churros",
+    "emoji": "🥖",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+
+  {
+    "id": "sorvete",
+    "name": "Sorvete",
+    "emoji": "🍨",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "banana-split",
+    "name": "Banana Split",
+    "emoji": "🍌",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "acai",
+    "name": "Açaí",
+    "emoji": "🫐",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "milkshake",
+    "name": "Milkshake",
+    "emoji": "🥤",
+    "category": "comidas",
+    "subcategory": "sobremesas"
+  },
+  {
+    "id": "outro",
+    "name": "Outro",
+    "emoji": "🍽️",
+    "category": "outros",
+    "subcategory": "outros"
+  }
+]
