@@ -1,6 +1,6 @@
 import { el } from "../utils/el";
 
-function ProgressBar(
+export function ProgressBar(
   onPrevious: () => void,
   currentStep: number,
   totalSteps: number,

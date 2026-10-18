@@ -1,7 +1,7 @@
 import { step } from "../utils/step";
 
 const FirstStep = {
-  render: () => {
+  render: (onNext: () => void, onPrevious: () => void) => {
     return step("first-step");
   },
 };

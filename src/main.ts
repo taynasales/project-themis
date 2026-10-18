@@ -1,7 +1,5 @@
 import "./style.css";
 
-import { el } from "./utils/el";
-
 import welcome from "./steps/0-welcome";
 import firstStep from "./steps/1-step";
 import secondStep from "./steps/2-step";
@@ -27,18 +25,8 @@ function previousStep(): void {
   }
 }
 
-function createNavigation(): HTMLDivElement {
-  const navigationButtons = el(
-    "div",
-    { class: "navigation-buttons" },
-    el("button", { onclick: previousStep }, "Previous"),
-    el("button", { onclick: nextStep }, "Next"),
-  );
-  return navigationButtons;
-}
-
 function renderStep(): void {
-  app.replaceChildren(steps[currentStep].render(), createNavigation());
+  app.replaceChildren(steps[currentStep].render(nextStep, previousStep));
 }
 
 renderStep();

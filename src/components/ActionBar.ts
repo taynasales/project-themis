@@ -1,6 +1,6 @@
 import { el } from "../utils/el";
 
-function ActionBar(
+export function ActionBar(
   onNext: () => void,
   nextTitle: string,
   summary: string,

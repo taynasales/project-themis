@@ -1,1 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap");
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+:root {
+  --font-family: "Bricolage Grotesque", sans-serif;
+
+  --bg: #f8f6f1;
+  --accent: #f4b9a0;
+  --on-accent: #1e1d1a;
+
+  --spacing: 0.25rem; /* 4px */
+
+  --container: 80rem; /* 1280px */
+}
+
+body {
+  font-family: var(--font-family);
+  background: var(--bg);
+}
+
+body:has(.screen[data-screen="welcome"]) {
+  background-color: var(--accent);
+  color: var(--on-accent);
+}
+
+.container {
+  max-width: var(--container);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: calc(var(--spacing) * 4);
+  padding-right: calc(var(--spacing) * 4);
+}
+
+/* welcome */
+
+.screen[data-screen="welcome"] {
+  .hero {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+
+    h1 {
+      font-size: 168px;
+      font-weight: 800;
+    }
+
+    h2 {
+      font-size: 20px;
+      font-weight: 600;
+      max-width: 360px;
+    }
+
+    .actions {
+      display: flex;
+      gap: 16px;
+
+      button {
+        font-family: var(--font-family);
+      }
+
+      .primary {
+        height: 56px;
+        padding: 0px 28px;
+        border: 0px;
+        border-radius: 12px;
+        background: rgb(26, 25, 22);
+        color: rgb(255, 255, 255);
+        font-size: 18px;
+        font-weight: 800;
+      }
+
+      .secondary {
+        height: 44px;
+        border: 0px;
+        background: transparent;
+        color: rgb(26, 25, 22);
+        font-size: 16px;
+        font-weight: 600;
+      }
+    }
+  }
+}
