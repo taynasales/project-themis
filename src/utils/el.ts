@@ -1,5 +1,5 @@
 type Props = Record<string, any>;
-type Child = Node | string | false | null | undefined;
+export type Child = Node | string | false | null | undefined;
 
 export function el<K extends keyof HTMLElementTagNameMap>(
   tag: K,
